@@ -1,4 +1,4 @@
-Список предложений [Ссылка на Github Pages]( https://Frida-Alexandra.github.io/bib-3.2/)
+Список предложений [Ссылка на Github Pages]( https://Frida-Alexandra.github.io/bib-3.2-edit/)
 ===
 
 Необходимо вывести список предложений каталога Etsy.com, используя библиотеку React. После загрузки данных и отрисовки список должен выглядеть так:
